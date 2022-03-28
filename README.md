@@ -2,7 +2,7 @@
 
 ## About me 
 - 👀 I’m a 21 years old student who lives in Kristiansand, Norway. I am pursuing my bachelors in IT and information systems (2 year) at University of Agder. 
-- 🌱 I’m currently learning PL/SQL, Universal Design, Service desing and business models and Data science applications
+- 🌱 I’m currently learning PL/SQL, Universal Design, Service design and business models and Data science applications
 - 💞️ I enjoy contributing to Open source projects and i am really enthusiastic about learning new technology. 
 - 📫 How to reach me: https://www.linkedin.com/in/abdul-rahman-kasim-1729a21a6/ https://www.facebook.com/AbdulRahman.Kasim786
 - Outside the world of tech too, i love pushing myself to develop new skils ranging from: Boxing, MMA, Gaming, Weightlifting.
